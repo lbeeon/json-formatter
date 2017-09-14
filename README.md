@@ -1,6 +1,6 @@
 ### Json formatter
 
-#####install
+##### install
 go get -u github.com/lbeeon/json-formater
 
 vim.config add
